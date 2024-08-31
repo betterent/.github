@@ -1,1 +1,1 @@
-# betterent
+# BetterENT extension
